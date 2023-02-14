@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Climate Change Problem</title>
+    
+        <meta name="author" content="K12 Raffy John Kart A. Joaquin">
+        <meta name="desription" content="CS3 1st quarter project">
+        <meta name="keywords" content="Potassium">
+        <meta name="date" content="10/24/2021">
+        <meta name="revised" content="01/15/2021">
+
+        <!-- <link rel="icon" type="image/x-icon" href="../images/favicon.ico"> -->
+
+        <link rel="stylesheet" href="../css/Stylesheet.css">
+    
+    </head>
+    
+    <body>
+        <header>
+        <div>
+            <!-- <img src="../images/love.png" alt="Earth" width="33px" height="33px"> -->
+            <span>Happy Valentines, Nay! <3</span>
+        </div>
+        </header>
+        
+        <!-- <nav>
+        <ul>
+            <li><a id="currentpage" href="index.html">Home</a></li>
+            <li><a href="questions.html">Questions</a></li>   
+            <li><a href="rrr.html">Reduce, Reuse, Recycle</a></li>
+            <li><a href="votewisely.html">Vote Wisely</a></li>
+            <li><a href="spreadtheword.html">Spread The Word</a></li>                 
+        </ul>
+        </nav> -->
+        
+        <article>
+        <div>
+            <img id="sidemedia" src="../images/Love.jpg" alt="Earth" width ="300px">
+            <!-- <a href="https://pixabay.com/service/license/">
+            <video id="sidemedia" width="300px" autoplay muted controls>
+                <source src="../mmfiles/trash.mp4" type="video/mpeg">
+                <source src= "../mmfiles/trash.mp4" type="video/ogg">
+            </video>
+            </a>
+            
+            <span id="heading">How YOU can help against climate change</span><br><br> -->
+            
+            <!-- div text -->
+            That I was born with a sun such as thou <br>
+            In truth, the luckiest of all was me <br>
+            Although all have life, all have energy <br>
+            You give me so much more, I will avow <br>
+
+            You shine so bright all day, I wonder how <br>
+            The endless warmth of yours envelops me <br>
+            You’re always warm for me, Impossibly <br>
+            But when dusk comes, with all my heart, I vow <br>
+
+            That I will shine my very best for you <br>
+            That on your heart, I’ll place all warmth upon <br>
+            That I will shine to keep the dark from you <br>
+            Like how, for me, you kept the brightness on <br>
+            And when the pitch black night is true <br>
+            I’ll take it in pride that I was your son \<br>
+            <!-- div text -->
+        </article>
+        <!-- <footer>
+            <div>Find NASA Climate at:</div><br>
+
+            <ul id="socialmedias">
+                <li id="facebook"><a href="https://www.facebook.com/NASAClimateChange/"></a></li>
+                <li id="instagram"><a href="https://www.instagram.com/nasaclimatechange/"></a></li>
+                <li id="twitter"><a href="https://twitter.com/nasaclimate"></a></li>
+            </ul>
+
+        </footer> -->
+    </body>
+    
+</html>
+    
